@@ -10,4 +10,7 @@ Widget de Feedback utilizando React criado em conjunto com a Rocketseat
 - Typescript
 - Vite
 
-Após clonar lembrar de executar npm install para instalar todas as dependências utilizadas.
+### Como utilizar
+
+Após clonar executar npm install para instalar todas as dependências utilizadas.
+Executar npm run dev para exibir a aplicação.
